@@ -1,2 +1,2 @@
 def piro(one, two):
-    return 2
+    return 3
