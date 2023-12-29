@@ -1,6 +1,2 @@
-def piro(one, two):
-    return 3;;;222
-
-def dev()
-
-def cart()
+def piro_main(p1, p2):
+    return p1 + p2
